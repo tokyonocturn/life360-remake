@@ -1,0 +1,13 @@
+# Never commit the APK/XAPK, captures, tokens, or Apple signing state
+xapk_contents/
+*.xapk
+*.apk
+*.chls
+*.har
+out-life360/
+out-apktool*/
+*.ipa
+*.mobileprovision
+xcuserdata/
+DerivedData/
+.env
